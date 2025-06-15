@@ -1,16 +1,17 @@
-# beeje_mobile
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Halaman iklan pop up](https://github.com/user-attachments/assets/efa7674b-8203-44ff-8537-68e6f0fcf756)
+![Halaman Home](https://github.com/user-attachments/assets/43a51108-c7aa-4f89-9b79-0c92f8d9f2fc)
+![Halaman Checkout reservasi](https://github.com/user-attachments/assets/d22f3ab8-8353-4b38-85c6-e936218f4b44)
+![Halaman Checkout Delivert](https://github.com/user-attachments/assets/b241917b-fde2-4781-a1f2-47e5344bbf23)
+![splashscreen](https://github.com/user-attachments/assets/51a88031-ec72-4ec5-96c8-a562621ab6a8)
+![splash screen2](https://github.com/user-attachments/assets/bdcee204-b6e9-4543-8794-e7a3111d59a5)
+![Onboarding 3](https://github.com/user-attachments/assets/f3de8e5f-a948-4692-a305-80d1b3783e49)
+![Onboarding 1](https://github.com/user-attachments/assets/d5d32c5f-8afc-431f-8653-189d09cacca4)
+![On boarding 2](https://github.com/user-attachments/assets/294587e8-37fa-4602-b92d-0d3eae14c1cc)
+![Halaman Register](https://github.com/user-attachments/assets/c9986c0d-b78f-4469-9d46-6366839547fe)
+![Halaman promo](https://github.com/user-attachments/assets/1ac2ad16-de6e-49ff-ba68-8979f260cfb0)
+![Halaman profile](https://github.com/user-attachments/assets/66d49a01-5b61-45fc-9df9-1e7614074393)
+![Halaman Produk Detail](https://github.com/user-attachments/assets/0d69db38-dd83-4410-bb23-772464d5d5f3)
+![Halaman pembayaran](https://github.com/user-attachments/assets/88c8a3b9-7498-4eb7-b994-df2411847780)
+![Halaman metode pemesanan](https://github.com/user-attachments/assets/ef4a5b5f-d265-48e3-ab5a-7c9e4ebf015a)
+![Halaman login](https://github.com/user-attachments/assets/20814561-607c-4c9a-b6ff-75cf8e3c8d1b)
+![Halaman KERANJANG](https://github.com/user-attachments/assets/650b33ab-ecdb-4532-9e0f-dbc91fea8028)
